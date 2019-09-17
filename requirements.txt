@@ -1,9 +1,6 @@
-json
-re
-yaml
+pyyaml
 pandas
-warnings
 numpy
-google.oauth2
+google-auth
 pandas_gbq
-os
+
